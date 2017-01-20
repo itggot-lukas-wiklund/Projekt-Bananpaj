@@ -1,0 +1,34 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: gray;
+    font-family: sans-serif;
+
+}
+
+header {
+    font-size: large;
+}
+
+nav {
+    display: flex;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+
+}
+
+aside {
+
+}
+
+.content {
+    display: flex;
+}
+
+@media screen {
+
+}
