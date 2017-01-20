@@ -5,14 +5,21 @@
     background-color: gray;
     font-family: sans-serif;
 
+    padding: 20px;
 }
 
 header {
-    font-size: large;
+    font-size: 32px;
+    font-weight: bold;
 }
 
 nav {
     display: flex;
+    justify-content: center;
+}
+
+a {
+    margin: 20px;
 }
 
 .main {
@@ -22,7 +29,7 @@ nav {
 }
 
 aside {
-
+    background-color: darkgray;
 }
 
 .content {
